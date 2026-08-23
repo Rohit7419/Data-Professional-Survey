@@ -242,4 +242,5 @@ Add screenshots of your Power BI dashboard here to showcase the interactive visu
 
 ### Dashboard Preview
 (https://github.com/Rohit7419/Data-Professional-Survey/blob/main/Survey%20Dashboard.png)
+![Data Professional Survey Dashboard](https://github.com/Rohit7419/Data-Professional-Survey/blob/main/Survey%20Dashboard.png)
 
