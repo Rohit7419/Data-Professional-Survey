@@ -241,6 +241,5 @@ The dashboard helps identify:
 Add screenshots of your Power BI dashboard here to showcase the interactive visuals and key insights.
 
 ### Dashboard Preview
-(https://github.com/Rohit7419/Data-Professional-Survey/blob/main/Survey%20Dashboard.png)
 ![Data Professional Survey Dashboard](https://github.com/Rohit7419/Data-Professional-Survey/blob/main/Survey%20Dashboard.png)
 
